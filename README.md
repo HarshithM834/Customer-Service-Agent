@@ -52,7 +52,3 @@ Run the FastAPI backend:
 python3 main.py
 ```
  The server will start at `http://0.0.0.0:8000`.
-
-## License
-
-[MIT](LICENSE)
